@@ -97,7 +97,6 @@ def main():
     glMatrixMode(GL_PROJECTION)
     glLoadIdentity()
     gluOrtho2D(-1, 1, -1, 1)
-
     load_textures()
     glutDisplayFunc(display)
     glutMouseFunc(mouse)
