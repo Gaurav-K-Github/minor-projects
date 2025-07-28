@@ -4,7 +4,6 @@ from OpenGL.GLU import *
 from PIL import Image
 import os
 
-# Sample weather data
 weather_data = [
     {"type": "Cloudy", "temp": "27°", "wind": "10 km/h", "humidity": "55%"},
     {"type": "Sunny", "temp": "31°", "wind": "6 km/h", "humidity": "40%"},
