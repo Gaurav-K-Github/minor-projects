@@ -17,6 +17,7 @@ weather_data = [
     {"type": "Snow", "temp": "-2°", "wind": "10 km/h", "humidity": "75%"},
 ]
 
+
 textures = []
 current_index = 0
 
